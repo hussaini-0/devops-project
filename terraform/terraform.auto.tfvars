@@ -1,0 +1,5 @@
+resource_group_name = "devops-project-rg"
+location            = "East US"
+vm_name             = "devops-vm"
+admin_username      = "devops"
+admin_ssh_public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC7VKPoZeIrnr0kHL/iGJtBRhkofuqpDvgwhSPxOoN6A0V2J6HTeHh8VtzqJj2dfTBLUjFaoghrv8AHs48njpk6owVuUuJ1nw1EHssZH8uupDlRj91SYGM6sbuSvquOiAg/wrzSHHNRgpjyDeLdVNaXeE1pxDAKHIYzvtUTfRY0jRYM+TW4t8YCNCnjc1w1yJj7ueUcA5c8LgqxmvTnf9E5VX5uP27DDyMmskKSKdig6vZ7SGBPadLTX+duQbQwzpO7Txv4ECrsdrav0ivXe/2Et0HG7xS2IDv/zsYNJdQsCDxpfXZvt4ZDx9dnn0tNesccGQaE1bWdNgqsVp+SlcOWgIw8mDINJAQZDJ4InAuqWu0nLg4XU9ww55Y9bIiAQpAyD1T9fXKx6YMmGTJys2tbk0eqGOwnMDzWPn4Ct0AHJzb3TCh0d7yJiwWrjdjtH/1q4QkgaAIU3LUUMVUEREJJ67PtdHzEpLRdGLBfa4f9/IPDDJSH/UujLRIu/WpU5V5tqSOi9MBaom7CagqGWsJGF0+iuO5EvkD21bh/Ncteol4o029grAYjXohUQmdxFvDvmtlU75STqbKPYsJshZY8EMB3VyG/dz/ZJwnngpNj/EBsG3rtEC4di7DEI1HAORSZZxKWx1m6pqORw2nEynPC5ev2znBRo+4/TX0GU01uCw== vagrant@ubuntu-focal"
