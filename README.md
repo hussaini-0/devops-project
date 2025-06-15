@@ -1,6 +1,12 @@
-<<<<<<< HEAD
+
 # devops-project
 Web server provisioned on Azure using Terraform and configured using Ansible all of this is executed through jenkins pipeline.
-=======
-# Devops
->>>>>>> 2a2b41f4cc01aa5ed813310cf51b16738bd8cc90
+
+Jenkins Pipeline Execution
+![WhatsApp Image 2025-06-15 at 22 34 41_ddd6179d](https://github.com/user-attachments/assets/6f707e24-52c7-442b-8e7a-6ed0ddd3f876)
+
+Infra provisioned on Azure
+![WhatsApp Image 2025-06-15 at 22 34 40_5ad6d32d](https://github.com/user-attachments/assets/b93419e4-7ee2-4381-ac3c-7742cd5e8612)
+
+Website accessible
+![WhatsApp Image 2025-06-15 at 22 34 40_83578899](https://github.com/user-attachments/assets/2c3c943f-302f-4170-b270-c72020b8ea01)
