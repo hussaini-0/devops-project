@@ -9,4 +9,5 @@ Infra provisioned on Azure
 ![WhatsApp Image 2025-06-15 at 22 34 40_5ad6d32d](https://github.com/user-attachments/assets/b93419e4-7ee2-4381-ac3c-7742cd5e8612)
 
 Website accessible
-![WhatsApp Image 2025-06-15 at 22 34 40_83578899](https://github.com/user-attachments/assets/2c3c943f-302f-4170-b270-c72020b8ea01)
+![image](https://github.com/user-attachments/assets/f9664a40-cd8d-4dd8-828f-de280552eb8d)
+
